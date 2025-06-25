@@ -11,23 +11,38 @@ const productsData = [
   {
     id: 1,
     name: 'White Platinum Basmati',
-    description: 'Exquisite long-grain aromatic rice, aged to perfection for a fluffy texture. The crown jewel of our collection.',
-    features: ['Aged Minimum 18 Months', 'Non-GMO', 'Exceptional Aroma'],
-    image: 'https://images.unsplash.com/photo-1506784365847-bbad939e9335?auto=format&fit=crop&w=600&q=80',
+    description: 'White Platinum Basmati is an extra-long grain, aged Basmati rice known for its feathery, perfectly separated kernels, mouthwatering popcorn aroma, and tender texture. Sourced from the Himalayan foothills, it is ideal for curries, pilafs, and biryanis.',
+    features: [
+      'Extra-long, feathery grains',
+      'Aged for superior aroma',
+      'Naturally gluten-free and non-GMO',
+      'Perfect for curries, pilafs, and biryanis'
+    ],
+    image: 'https://d121ck0xk6rnj0.cloudfront.net/eyJidWNrZXQiOiJyaXZpYW5hLWJ1Y2tldCIsImtleSI6ImltYWdlcy9wcmVtaXVtLWJhc21hdGkucG5nIiwiZWRpdHMiOnsicG5nIjp7InF1YWxpdHkiOjEwMCwicHJvZ3Jlc3NpdmUiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiY292ZXIifX19',
   },
   {
     id: 2,
     name: 'Premium Basmati Rice',
-    description: 'Soft, fragrant rice with a subtle nutty flavor. Perfect for a variety of international and traditional dishes.',
-    features: ['Aged Minimum 12 Months', 'Delicate Flavor', 'Sustainably Sourced'],
-    image: 'https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=600&q=80',
+    description: 'Premium Basmati Rice is renowned for its uniquely aromatic, nutty, and subtly sweet flavor. Grown in the Himalayas, it features extra-long grains that remain fluffy and separate after cooking. Non-GMO, gluten-free, and perfect for a variety of international and traditional dishes.',
+    features: [
+      'Aromatic, nutty, and subtly sweet',
+      'Extra-long, fluffy grains',
+      'Non-GMO and gluten-free',
+      'Ideal for daily meals and special occasions'
+    ],
+    image: 'https://d121ck0xk6rnj0.cloudfront.net/eyJidWNrZXQiOiJyaXZpYW5hLWJ1Y2tldCIsImtleSI6ImltYWdlcy9wcmVtaXVtLWJhc21hdGkucG5nIiwiZWRpdHMiOnsicG5nIjp7InF1YWxpdHkiOjEwMCwicHJvZ3Jlc3NpdmUiOnRydWV9LCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiY292ZXIifX19',
   },
   {
     id: 3,
     name: 'Golden Sella Basmati',
-    description: 'Parboiled basmati rice that remains separate and fluffy after cooking. Known for its golden hue and rich taste.',
-    features: ['Extra Long Grain', 'Rich in Nutrients', 'Easy to Cook'],
-    image: 'https://images.unsplash.com/photo-1508672019048-805c876b67e2?auto=format&fit=crop&w=600&q=80',
+    description: 'Golden Sella Basmati is parboiled Basmati rice with a golden hue, prized for its firm, fluffy, and non-sticky grains after cooking. It retains more nutrients than white rice and is perfect for biryanis, pulao, and dishes that require rice to stay separate and warm for longer periods.',
+    features: [
+      'Golden/yellow parboiled grains',
+      'Firm, fluffy, and non-sticky texture',
+      'Rich in fiber and nutrients',
+      'Ideal for biryanis, pulao, and festive dishes'
+    ],
+    image: '/rice/golden-sella.jpg',
   },
 ];
 
